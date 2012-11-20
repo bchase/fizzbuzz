@@ -1,0 +1,9 @@
+# A Complex Problem
+
+> Write a program that prints the numbers from 1 to 100. But for multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz". 
+
+> http://www.codinghorror.comiblog/2007/02/why-cant-programmers-program.html
+
+# A Lone Rubyist's Courageous Solution
+
+See `fizzbuzz.rb`
